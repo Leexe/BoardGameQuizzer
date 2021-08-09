@@ -14,6 +14,6 @@ public class Player extends Actor
      */
     public void act()
     {
-        int Josh = 5;
+        int Josh = 5;s
     }
 }
